@@ -1,0 +1,24 @@
+2025-03-03 10:50:00,633 - main_runner - INFO - Starting the complete time series forecasting pipeline
+2025-03-03 10:50:00,633 - main_runner - INFO - Checking environment setup...
+2025-03-03 10:50:00,634 - main_runner - INFO - Python version: 3.9.12
+2025-03-03 10:50:05,154 - main_runner - INFO - All core packages are available
+2025-03-03 10:50:06,053 - main_runner - WARNING - Missing optional packages: fastparquet
+2025-03-03 10:50:06,054 - main_runner - INFO - Consider installing these packages for full functionality
+2025-03-03 10:50:06,054 - main_runner - INFO - Running data pipeline...
+2025-03-03 10:50:06,352 - main_runner - INFO - Executing pipeline module directly
+2025-03-03 10:50:09,417 - main_runner - INFO - Data pipeline completed successfully
+2025-03-03 10:50:09,418 - main_runner - INFO - Running model training...
+2025-03-03 10:50:09,423 - main_runner - INFO - Executing model training module directly
+2025-03-03 10:50:44,707 - main_runner - INFO - Model training completed successfully
+2025-03-03 10:50:44,708 - main_runner - INFO - Running model inference...
+2025-03-03 10:50:44,713 - main_runner - INFO - Executing model inference module directly
+2025-03-03 10:50:44,997 - main_runner - INFO - Model inference completed successfully
+2025-03-03 10:50:44,998 - main_runner - INFO - Running trading strategy backtesting...
+2025-03-03 10:50:45,006 - main_runner - INFO - Executing backtesting module directly
+2025-03-03 10:50:45,006 - main_runner - WARNING - No inference results found for backtesting
+2025-03-03 10:50:45,007 - main_runner - INFO - Running MLOps system...
+2025-03-03 10:50:45,973 - main_runner - INFO - Executing MLOps module directly
+2025-03-03 10:50:47,862 - main_runner - INFO - MLOps system completed successfully
+2025-03-03 10:50:47,862 - main_runner - INFO - Starting model API server...
+2025-03-03 10:50:47,863 - main_runner - ERROR - API server script not found: C:\Users\Ajit Zod\Untitled Folder 2\src\api\model_api_server.py
+2025-03-03 10:50:47,863 - main_runner - INFO - Full pipeline completed successfully!

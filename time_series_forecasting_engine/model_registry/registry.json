@@ -1,0 +1,236 @@
+{
+    "models": {
+        "AAPL_lstm_20250302_232215": {
+            "id": "AAPL_lstm_20250302_232215",
+            "type": "lstm",
+            "symbol": "AAPL",
+            "created_at": "20250302_232215",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AAPL_lstm_20250302_232215\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "AMZN_lstm_20250302_232215": {
+            "id": "AMZN_lstm_20250302_232215",
+            "type": "lstm",
+            "symbol": "AMZN",
+            "created_at": "20250302_232215",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AMZN_lstm_20250302_232215\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "META_lstm_20250302_232215": {
+            "id": "META_lstm_20250302_232215",
+            "type": "lstm",
+            "symbol": "META",
+            "created_at": "20250302_232215",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\META_lstm_20250302_232215\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "MSFT_lstm_20250302_232215": {
+            "id": "MSFT_lstm_20250302_232215",
+            "type": "lstm",
+            "symbol": "MSFT",
+            "created_at": "20250302_232215",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\MSFT_lstm_20250302_232215\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "GOOGL_lstm_20250302_232215": {
+            "id": "GOOGL_lstm_20250302_232215",
+            "type": "lstm",
+            "symbol": "GOOGL",
+            "created_at": "20250302_232215",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\GOOGL_lstm_20250302_232215\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "GOOGL_lstm_20250302_232917": {
+            "id": "GOOGL_lstm_20250302_232917",
+            "type": "lstm",
+            "symbol": "GOOGL",
+            "created_at": "20250302_232917",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\GOOGL_lstm_20250302_232917\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "META_lstm_20250302_232917": {
+            "id": "META_lstm_20250302_232917",
+            "type": "lstm",
+            "symbol": "META",
+            "created_at": "20250302_232917",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\META_lstm_20250302_232917\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "MSFT_lstm_20250302_232917": {
+            "id": "MSFT_lstm_20250302_232917",
+            "type": "lstm",
+            "symbol": "MSFT",
+            "created_at": "20250302_232917",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\MSFT_lstm_20250302_232917\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "AMZN_lstm_20250302_232917": {
+            "id": "AMZN_lstm_20250302_232917",
+            "type": "lstm",
+            "symbol": "AMZN",
+            "created_at": "20250302_232917",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AMZN_lstm_20250302_232917\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "AAPL_lstm_20250302_232917": {
+            "id": "AAPL_lstm_20250302_232917",
+            "type": "lstm",
+            "symbol": "AAPL",
+            "created_at": "20250302_232917",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "C:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AAPL_lstm_20250302_232917\\lstm_model_20250302_221456.pt",
+            "status": "active"
+        },
+        "GOOGL_lstm_20250303_105045": {
+            "id": "GOOGL_lstm_20250303_105045",
+            "type": "lstm",
+            "symbol": "GOOGL",
+            "created_at": "20250303_105045",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "c:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\GOOGL_lstm_20250303_105045\\lstm_model_20250303_105040.pt",
+            "status": "active"
+        },
+        "AAPL_lstm_20250303_105045": {
+            "id": "AAPL_lstm_20250303_105045",
+            "type": "lstm",
+            "symbol": "AAPL",
+            "created_at": "20250303_105045",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "c:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AAPL_lstm_20250303_105045\\lstm_model_20250303_105040.pt",
+            "status": "active"
+        },
+        "MSFT_lstm_20250303_105045": {
+            "id": "MSFT_lstm_20250303_105045",
+            "type": "lstm",
+            "symbol": "MSFT",
+            "created_at": "20250303_105045",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "c:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\MSFT_lstm_20250303_105045\\lstm_model_20250303_105040.pt",
+            "status": "active"
+        },
+        "META_lstm_20250303_105046": {
+            "id": "META_lstm_20250303_105046",
+            "type": "lstm",
+            "symbol": "META",
+            "created_at": "20250303_105046",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "c:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\META_lstm_20250303_105046\\lstm_model_20250303_105040.pt",
+            "status": "active"
+        },
+        "AMZN_lstm_20250303_105046": {
+            "id": "AMZN_lstm_20250303_105046",
+            "type": "lstm",
+            "symbol": "AMZN",
+            "created_at": "20250303_105046",
+            "metrics": {},
+            "params": {
+                "input_dim": 100,
+                "hidden_dim": 64,
+                "num_layers": 2,
+                "sequence_length": 10
+            },
+            "path": "c:\\Users\\Ajit Zod\\Untitled Folder 2\\time_series_forecasting_engine\\model_registry\\AMZN_lstm_20250303_105046\\lstm_model_20250303_105040.pt",
+            "status": "active"
+        }
+    },
+    "active_models": {
+        "AAPL": "AAPL_lstm_20250303_105045",
+        "AMZN": "AMZN_lstm_20250303_105046",
+        "META": "META_lstm_20250303_105046",
+        "MSFT": "MSFT_lstm_20250303_105045",
+        "GOOGL": "GOOGL_lstm_20250303_105045"
+    }
+}

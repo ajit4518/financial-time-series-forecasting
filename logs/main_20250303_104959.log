@@ -1,0 +1,3 @@
+2025-03-03 10:49:59,978 - main_runner - INFO - Starting the complete time series forecasting pipeline
+2025-03-03 10:49:59,978 - main_runner - INFO - Checking environment setup...
+2025-03-03 10:49:59,978 - main_runner - INFO - Python version: 3.9.12

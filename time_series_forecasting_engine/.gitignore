@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files - you may want to exclude large data files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Model files
+models/*.pt
+models/*.pth
+!models/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated plots and results
+plots/*
+results/*
+!plots/.gitkeep
+!results/.gitkeep
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db

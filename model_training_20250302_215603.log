@@ -1,0 +1,2 @@
+2025-03-02 21:56:03,529 - model_runner - INFO - Starting model training
+2025-03-02 21:56:03,536 - model_runner - ERROR - Error importing LSTM model: No module named 'models.model_implementation.lstm_model'; 'models.model_implementation' is not a package

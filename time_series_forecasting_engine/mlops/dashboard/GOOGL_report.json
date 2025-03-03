@@ -1,0 +1,12 @@
+{
+    "symbol": "GOOGL",
+    "model_id": "GOOGL_lstm_20250303_105045",
+    "model_type": "lstm",
+    "created_at": "20250303_105045",
+    "metrics": {},
+    "retrain_recommended": false,
+    "drift_detected": false,
+    "plots": {
+        "performance": null
+    }
+}

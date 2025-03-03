@@ -1,0 +1,14 @@
+{
+    "symbol": "AAPL",
+    "model_id": "AAPL_lstm_20250302_232917",
+    "metrics": {
+        "mse": 18.33818862761321,
+        "mae": 4.263255407006369,
+        "rmse": 4.28231113157524,
+        "directional_accuracy": 0.04472843450479233,
+        "timestamp": "2025-03-02T23:29:21.161715"
+    },
+    "retrain_recommended": false,
+    "drift_detected": false,
+    "timestamp": "2025-03-02T23:29:21.165712"
+}
